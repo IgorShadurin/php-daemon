@@ -1,4 +1,4 @@
 #!/bin/sh
 # My first script
 
-echo "Hello World!: $0"
+echo "Hello World!: $1"
